@@ -16,3 +16,12 @@
 
 ## How to Run
 - mvn test
+
+## ✅ Features
+- REST API automation using Rest Assured
+- Supports GET and POST requests
+- HTTP status code validation
+- Response body and header assertions
+- TestNG-based test execution
+- Maven build support
+- Easily extendable for new APIs

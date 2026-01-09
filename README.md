@@ -25,3 +25,10 @@
 - TestNG-based test execution
 - Maven build support
 - Easily extendable for new APIs
+
+## 👤 Author
+**Srinivasa Reddy**  
+QA Engineer | Automation Tester  
+Skills: Selenium, TestNG, Maven, Rest Assured, CI/CD  
+
+🔗 GitHub: https://github.com/srinivasa-reddy-qa  
